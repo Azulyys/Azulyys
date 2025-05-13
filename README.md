@@ -25,9 +25,6 @@
 <img src="https://raw.githubusercontent.com/Azulyys/Azulyys/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<p align="left">I'm currently completing a 9 weeks intensive bootcamp at Le Wagon!</p>
-
 ###
 
 <div align="center">
